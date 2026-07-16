@@ -23,7 +23,6 @@ jobs:
             echo "emoji=✅ SUCESSO" >> $GITHUB_OUTPUT
           else
             echo "emoji=❌ FALHA" >> $GITHUB_OUTPUT
-          
  
       # =================================================================
       # ITEM A: Job Summary no novo Workflow
